@@ -1,0 +1,40 @@
+_repo: The-Second-Fiddle_41107
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Price, Norman
+    alias: Price, Norman Mills
+    birthdate: 1877
+    deathdate: 1951
+    gutenberg_agent_id: '40987'
+    url: http://www.gutenberg.org/2009/agents/40987
+covers:
+- cover_type: archival
+  image_path: 41107-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bottome, Phyllis
+    alias: Forbes Dennis, Phyllis
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '31601'
+    url: http://www.gutenberg.org/2009/agents/31601
+description: ''
+gutenberg_issued: '2012-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Disabled veterans -- England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Secretaries -- Fiction'
+- !lcsh 'World War, 1914-1918 -- England -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: The Second Fiddle
+url: http://www.gutenberg.org/ebooks/41107
