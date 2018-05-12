@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '31601'
     url: http://www.gutenberg.org/2009/agents/31601
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41107#The-Second-Fiddle
 gutenberg_issued: '2012-10-18'
 gutenberg_type: Text
 identifiers:
